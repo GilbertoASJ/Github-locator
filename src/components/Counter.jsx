@@ -1,3 +1,5 @@
+// Arquivo auxiliar sobre imutabilidade
+
 // Importando useState, função do react que permite utilizar o conceito de estado
 import { useState } from 'react'
 
