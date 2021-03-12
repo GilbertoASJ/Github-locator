@@ -4,8 +4,6 @@ import '../styles/repositories.scss'
 
 // https://api.github.com/users/GilbertoASJ/repos
 
-
-
 export function RepositoryList() {
 	const [repositories, setRepositories] = useState([])
 
