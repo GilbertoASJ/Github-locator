@@ -41,9 +41,11 @@ Neste Aplicativo de Finanças foram utilizadas as seguintes tecnologias
 
 ### ✈️ Como acessar o Aplicativo 
 
-Hospedado na Vercel
+Hospedado na Netlify
 
-Em construção...
+Para acessar o aplicativo com os meus repositórios entre em:
+
+https://github-locator-gsj.netlify.app/
 
 Ou então 
 
