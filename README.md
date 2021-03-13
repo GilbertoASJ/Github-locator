@@ -1,5 +1,5 @@
 <h1 align="center">Github Locator</h1>
-<h1 align="center"><img src="C:\Users\Matheus\Documents\Gilberto\Prints\github-locator-home.PNG"></h1>
+<h1 align="center"><img src="./src/images/github-locator-home-desktop.PNG"></h1>
 
 <hr>
 
