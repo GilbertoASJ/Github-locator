@@ -26,7 +26,6 @@ Depois de fazer o 'merge' de seu pull request, você pode excluir seu branch.
 
 <br>
 
-Para fazer uma busca por qualquer repositório modifique a URL em: src/components/RepositoryList, na linha 18.
 
 ### 💻 Tecnologias utilizadas
 
@@ -50,7 +49,7 @@ https://github-locator-gsj.netlify.app/
 Ou então 
 
 ```
-Em construção...
+Para fazer uma busca por qualquer repositório modifique a URL em: src/components/RepositoryList, na linha 18.
 ```
 
 ### 📃 Licença
